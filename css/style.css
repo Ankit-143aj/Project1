@@ -12,14 +12,18 @@ h1{
   font-size:30px;
 }
 .one{
+  margin:10px;
   padding:10px;
   height:100px;
   width:100px;
   background-color:red
+  border:2px solid green;
 }
 .two{
+  margin:10px;
   padding:10px;
   height:100px;
   width:100px;
-  background-color:blue
+  background-color:blue;
+    border:2px solid green;
 }
